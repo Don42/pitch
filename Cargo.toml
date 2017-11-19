@@ -1,0 +1,8 @@
+[package]
+name = "pitch"
+version = "0.1.0"
+authors = ["Marco 'don' Kaulea <don@0xbeef.org>"]
+
+[dependencies]
+nom = "^3.2"
+byteorder = "1"
